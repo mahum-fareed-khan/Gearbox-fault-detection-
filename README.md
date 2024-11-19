@@ -38,6 +38,5 @@ It implements <strong>machine learning</strong> models for predictive maintenanc
 Key outcomes include accurate fault diagnosis and RUL prediction. Below is a sample result visualization:
 </p>
 <p align="center">
-  <img src="Images
-/Table .png" alt="Results Chart" width="600">
+  <img src="Images/Table .png alt="Results Chart" width="600">
 </p>
