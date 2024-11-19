@@ -1,7 +1,6 @@
 <h1 align="center">🔧 Gearbox Fault Prediction</h1>
 
 <p align="center">
-  <img src="images/project-banner.png" alt="Project Banner" width="800">
 </p>
 
 <h2>📖 Overview</h2>
@@ -12,7 +11,6 @@ It implements <strong>machine learning</strong> models for predictive maintenanc
 
 <h2>📂 Repository Structure</h2>
 <pre>
-project-folder/
 ├── data/                  # Datasets used for training and testing
 ├── notebooks/             # Jupyter notebooks for analysis
 ├── src/                   # Source code for ML models and preprocessing
@@ -23,8 +21,8 @@ project-folder/
 
 <h2>🚀 Features</h2>
 <ul>
-  <li>Fault classification with high accuracy (98% precision).</li>
-  <li>RUL prediction with minimal error (5% margin).</li>
+  <li>Fault classification with high accuracy (78% precision).</li>
+  <li>RUL prediction with minimal error .</li>
   <li>Visualizations of turbine performance metrics.</li>
 </ul>
 
@@ -40,5 +38,5 @@ project-folder/
 Key outcomes include accurate fault diagnosis and RUL prediction. Below is a sample result visualization:
 </p>
 <p align="center">
-  <img src="images/results-chart.png" alt="Results Chart" width="600">
+  <img src="" alt="Results Chart" width="600">
 </p>
